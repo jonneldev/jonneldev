@@ -2,7 +2,7 @@
 
 Currently working as a technician in an electronics factory, I am passionate about transitioning to a career in software development. As time passed by, I’ve cultivated a deep interest in technology. I am eager to apply my technical background and curiosity to develop web applications that automate tasks and simplify micro-tasks, making processes more efficient. This career shift is driven by my childhood aspiration to work in tech and my commitment to creating impactful solutions.
 
-![jonneldev's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jonneldev's Stats](https://github-readme-stats.vercel.app/api?username=jonneldev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
