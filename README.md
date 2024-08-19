@@ -6,9 +6,10 @@ Currently working as a technician in an electronics factory, I am passionate abo
 
 ## 🚀 About Me
 
-- 🔭 I'm currently a factory worker here in Taiwan.
-- I'm 32 years old ^_^
-- I love watching anime, movies, traveling and going out.
+🔭 I’m currently working as a factory technician in Taiwan, where I’ve honed my problem-solving skills and attention to detail.
+🌟 I’m 32 years old and passionate about technology and continuous learning.
+🎬 In my free time, I enjoy watching anime and movies, traveling, and exploring new destinations.
+🌍 I’m also a firm believer in lifelong learning and personal growth.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,nodejs,py,react,vite,)](https://skillicons.dev)
@@ -24,28 +25,12 @@ Currently working as a technician in an electronics factory, I am passionate abo
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed a Full Stack Web Developer Bootcamp in January 2024, gaining comprehensive skills in both front-end and back-end development.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linked](https://www.linkedin.com/in/jonnel-dosado/)
+- Know more about me on [facebook.com](https://www.facebook.com/litchex/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
